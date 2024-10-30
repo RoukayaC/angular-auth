@@ -1,0 +1,5 @@
+{
+    "mongo_url": "mongodb+srv://roukayachelly7:4YgDDO8CCJ7kTfm3@airbnb.kv7as.mongodb.net/?retryWrites=true&w=majority&appName=airbnb",
+    "jwtSecret": "jwtSecret",
+    "tokenExpire": "1d"
+}
